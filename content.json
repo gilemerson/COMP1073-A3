@@ -1,0 +1,25 @@
+{
+    "index": [
+        {
+            "image": "<img src='Assets/contactpagegil.jpg' alt='Gil Emerson Image'>",
+            "title": "Gil Emerson Design Studio",
+            "text": "Welcome and thank you for visiting Gil Emerson Design Studio. My name is Gil Emerson, I am a freelance web designer serving in Simcoe County all the way to the greater GTA. If you stopped here because you need a specialist in website creation, then you have come the right place. Please check my website at your own pace and see what we can do for you. Have a look at the quality of work and services offered. Until then let's get to know each other better. Gil Emerson Design Studio offers modern websites and web services that are as functional as their appearance. Whether you are an entrepreneur that has an idea or a company looking to create a website to represent your company or upgrade an existing website, Gil Emerson Design studio can help you towards the best solution. My team is driven by passion for pushing every idea as far as it can go and helping our clients achieve their design goals. We help our clients build their own online brand presence, grow their business and connect with their clients."
+        }
+    ],
+
+   
+    "projects": [
+        {
+            "image": "<img src='Assets/projectOne.png' alt='project 1'>",
+            "url": "#"
+        },
+        {
+            "image": "<img src='Assets/projectTwo.png' alt='project 2'>",
+            "url": "#"
+        },
+        {
+            "image": "<img src='Assets/projectThree.png' alt='project 3'>",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+/*
+    * File Name: Assignment Three - Mini Portfolio - JSON DATA
+    * Author Name: Gil Emerson (200186807)
+    * Website Name: GE Design Studio 
+    * File Description: Bio Page - (CSS Page (app.css))
+*/
+
+    /* Font Family */
+    @import url('https://fonts.googleapis.com/css?family=Oswald');
+
+    body {
+    background-color: grey;
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+    }
+
+    /* gilImage CSS - Main Page Img */
+    #personalImage {
+    width: 200px;
+    }
